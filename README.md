@@ -11,5 +11,5 @@ Esse projeto foi desenvolvido exclusivamente para fins acadêmicos.
 
 🖥️ Interface:
 -----------------------------------------------------------
-![alt text](<interface password.png>)
+
 
