@@ -1,5 +1,5 @@
 # Gerador de Senha em Python
-O projeto tem como base desenvolver habilidades utilizando a linguagem Python e o CustomTkinter para criar a interfaces gráficas.
+O projeto tem como base desenvolver habilidades utilizando a linguagem Python e o CustomTkinter para criar interfaces gráficas.
 Esse projeto foi desenvolvido exclusivamente para fins acadêmicos.
 
 📍Finalidade 
